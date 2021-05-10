@@ -9,15 +9,15 @@
     "DLL": "PilotIconColor.dll",
 	
 	"Settings": {
-		"BackerIconColor" : "OrangeHalf",
+		"BackerIconColor" : "BallisticColor",
 		"RoninIconColor" : "RedHalf",
 		"CommanderIconColor" : "GoldHalf"
 	},
 	"UIColors for above settings, use word or number" :
     {
-		"backer" : "Special Keyword for SimPilotBacker",
-		"ronin" : "Special Keyword for SimPilotRonin",
-		"commander" : "Special Keyword for SimPilotCommander",
+	"backer" : "Special Keyword for SimPilotBacker",
+	"ronin" : "Special Keyword for SimPilotRonin",
+	"commander" : "Special Keyword for SimPilotCommander",
         "Custom" : "0",
         "White" : "1",
         "Black" : "2",
